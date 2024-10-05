@@ -16,8 +16,7 @@ The project folder is organized as follows:
 - **PythonCode**: Includes Python scripts to control the Niryo Ned 2 robot. These scripts pass the waypoints obtained from the Matlab simulation to the robot for real-world testing.
 - **Nyrio-Ned-2-Pen-Support**: Contains the files and configuration details of the custom-designed pen holder end-effector used in the trajectory task.
 - **Trajectory Planning Nyrio Ned 2.pdf**: Project documentation file, detailing the methodology, implementation, and results.
-- **Trajectory Planning Nyrio Ned 2.pptx**: PowerPoint presentation summarizing the project for presentation purposes.
-
+  
 ## Requirements
 
 - **Matlab** with Robotics System Toolbox
